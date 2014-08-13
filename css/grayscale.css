@@ -149,6 +149,8 @@ a:focus {
 .intro .intro-body {
     display: table-cell;
     vertical-align: middle;
+	
+	text-shadow: black 0.1em 0.1em 0.2em;
 }
 
 .intro .intro-body .brand-heading {
@@ -250,6 +252,7 @@ a:focus {
 
 .content-section {
     padding-top: 100px;
+	text-shadow: black 0.1em 0.1em 0.2em;
 }
 
 .current-section {
